@@ -37,7 +37,7 @@ A modern, feature-rich image compression tool built with Python and PySide6. Pix
 ### Quick Start
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/PixelShrink.git
+   git clone https://github.com/KamalSDhami/PixelShrink.git
    cd PixelShrink
    ```
 
@@ -232,9 +232,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/PixelShrink/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/PixelShrink/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/KamalSDhami/PixelShrink/issues)
+- **Email**: devdhami765@gmail.com
 
 ## 🔄 Version History
 
